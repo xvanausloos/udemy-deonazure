@@ -4,3 +4,9 @@ LDI Oct 24
 https://www.udemy.com/course/data-engineering-on-microsoft-azure/learn/lecture/44373834#overview
 
 
+# Enable venv
+source venv/bin/activate
+
+# Install requirements
+pip install -r requirements.txt
+
